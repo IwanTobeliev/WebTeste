@@ -6,3 +6,4 @@ ls
 open
 git add nome
 git commit -m "mensagem"
+git status
