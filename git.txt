@@ -1,0 +1,8 @@
+git clone <url>
+touch arquivo.ext
+cd pasta
+cd ..
+ls
+open
+git add nome
+git commit -m "mensagem"
